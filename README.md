@@ -2,7 +2,7 @@
 
 Welcome to an interactive and stylish **Rock-Paper-Scissors** game built with **HTML**, **CSS**, and **JavaScript**. This game includes rich animations, sound effects, and session-based score tracking for multiple players. It's a great showcase of interactive front-end development!
 
-👉 [**Live Demo**](https://reddyharshavardhan.github.io/Rock-Paper-Scissors-Game/) <!-- Replace with your actual live URL -->
+👉 [**Live Demo**](https://reddyharshavardhan.github.io/Rock-Paper-Scissors-Game/)
 
 ---
 
@@ -73,18 +73,13 @@ rock-paper-scissors/
 
 1. Clone the repository  
    ```bash
-   git clone # 🎮 Rock-Paper-Scissors Game
-
-- 🎉 **Animations** – Smooth hand-shaking before each round.
-- 🔊 **Sound Effects**:
-  - Game Start → `start.mp3`
-  - Win → `win.mp3`
-  - Draw → `draw.mp3`
-  - Loss → `fail.mp3`
-- 🌈 **Responsive UI** – Fully responsive with color themes and modern layout.
-
----
-
+   git clone https://github.com/reddyharshavardhan/Rock-Paper-Scissors-Game.git
+   ```
+2. Open the folder  
+   ```bash
+   cd Rock-Paper-Scissors-Game
+   ```
+3. Open `index.html` in your browser  
 ---
 
 ## 🔊 Sound Effects
